@@ -10,7 +10,7 @@ OpenCart is a free open source ecommerce platform for online merchants. OpenCart
 Please read the [installation instructions](INSTALL.md) included in the repository or download file.
 
 
-## How to upgrade from previous versions
+## How to upgrade from previous versions easily
 
 Please read the [upgrading instructions](UPGRADE.md) included in the repository or download file.
 
@@ -51,7 +51,7 @@ A FEATURE version is when new extensions or features are added (such as a paymen
 
 A PATCH version is when a fix is added, it should be considered safe to update patch versions e.g 1.2.3.4 to 1.2.3.5
 
-## Releases
+## New Releases
 
 OpenCart will announce to developers 1 week prior to public release of FEATURE versions, this is to allow for testing of their own modules for compatibility. For bigger releases (ones that contain many core changes, features and fixes) an extended period will be considered following an announced release candidate (RC). Patch versions (which are considered safe to update with) may have a significantly reduced developer release period.
 
@@ -68,7 +68,7 @@ To receive developer notifications about release information, sign up to the new
 
 [GNU General Public License version 3 (GPLv3)](https://github.com/opencart/opencart/blob/master/license.txt)
 
-## Links
+## Important Links 
 
 - [OpenCart homepage](https://www.opencart.com/)
 - [OpenCart forums](https://forum.opencart.com/)
